@@ -1,7 +1,7 @@
 {
     "name": "weibo-hot-search-api", 
     "version": "1.0.0", 
-    "description": "A Tencent Cloud Function for retrieving Weibo hot search data as API.", // 项目描述
+    "description": "A Tencent Cloud Function for retrieving Weibo hot search data as API.",
     "main": "index.js", 
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,4 @@
     "dependencies": {
       "axios": "^0.22.0"
     }
-  }
-  
+}
